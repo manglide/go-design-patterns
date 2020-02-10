@@ -1,1 +1,1 @@
-# go-design-patterns by Mario Castro
+# go-design-patterns Book by Mario Castro
